@@ -1,0 +1,75 @@
+{
+    "modname": "Gun-Mod",
+    "moditems": [
+        [
+            "Flashbang",
+            10,
+            "Blinds the enemy, Allowing you to flee",
+            "dis"
+        ],
+        [
+            "Pipe Bomb",
+            10,
+            "In your mailbox",
+            "atk"
+        ],
+        [
+            "Weed",
+            40,
+            "Only cool kids do drugs",
+            "hel"
+        ]
+    ],
+    "modweapons": [
+        [
+            "Pm Pistol",
+            25,
+            20
+        ],
+        [
+            "12 Gauge Shotgun",
+            50,
+            35
+        ],
+        [
+            "Bagel",
+            12,
+            -15
+        ]
+            
+    ],
+    "modenemies": [
+        {
+            "name": "Schitzophrenic Shotgun Owner",
+            "health": 30,
+            "weapons": [
+                [
+                    "12 Gauge Shotgun",
+                    25,
+                    10
+                ],
+                [
+                    "A Thermonuclear Bomb",
+                    35,
+                    1000
+                ]
+            ]
+        },
+        {
+            "name": "Homeless Man",
+            "health": 65,
+            "weapons": [
+                [
+                    "Rusty Knife",
+                    25,
+                    10
+                ],
+                [
+                    "Heroin Needle",
+                    35,
+                    5
+                ]
+            ]
+        }
+    ]
+}
